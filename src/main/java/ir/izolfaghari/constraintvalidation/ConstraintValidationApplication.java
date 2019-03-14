@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ConstraintvalidationApplication {
+public class ConstraintValidationApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ConstraintvalidationApplication.class, args);
+		SpringApplication.run(ConstraintValidationApplication.class, args);
 	}
 
 }
